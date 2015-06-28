@@ -10,7 +10,7 @@ import pprint
 import json
 import time
 add = "Buckingham Palace, London, SW1A 1AA"
-
+#postgresql
 
 client = MongoClient()
 db = client.rental_pricing
